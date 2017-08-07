@@ -14,4 +14,6 @@ Then you can create the django superuser from within admin.py using admin.site.r
 
 You can then use a script to populate the database with test data which I did in the first couple of projects to make sure everything was working ok - see the populate_users in the third_project for an idea of this.
 
-By this point I was getting less intimidated by the whole thing.. to be continued!
+Then by this point project I started playing around with forms and then, revisited the third project to try storing the input of the forms to the database and that worked fine. I also played around with adding fields to stop bots and ensure that the input was clean.
+
+Then on the fourth project I started exploring templating and then finally logins. Django is awesome!
