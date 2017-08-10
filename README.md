@@ -17,3 +17,7 @@ You can then use a script to populate the database with test data which I did in
 Then by this point project I started playing around with forms and then, revisited the third project to try storing the input of the forms to the database and that worked fine. I also played around with adding fields to stop bots and ensure that the input was clean.
 
 Then on the fourth project I started exploring templating and then finally logins. Django is awesome!
+
+Then the 5th project covers more advanced templating.
+
+The 6th is all about user login forms and the logic behind them.
