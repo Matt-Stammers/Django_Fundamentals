@@ -21,3 +21,5 @@ Then on the fourth project I started exploring templating and then finally login
 Then the 5th project covers more advanced templating.
 
 The 6th is all about user login forms and the logic behind them.
+
+After that I started actually deploying projects. This concludes the basic_Django_training repo.
